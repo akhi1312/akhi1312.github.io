@@ -48,8 +48,8 @@ $(document).ready(function() {
             $('#glyph-arrow').css("color", "white");
         }
 
-        if (isScrolledIntoView($("#csharp_progress"))) {
-            $("#csharp_progress").css("width", "85%");
+        if (isScrolledIntoView($("#python_progress"))) {
+            $("#python_progress").css("width", "85%");
         }
         if (isScrolledIntoView($("#java_progress"))) {
             $("#java_progress").css("width", "87%");
@@ -72,8 +72,8 @@ $(document).ready(function() {
         if (isScrolledIntoView($("#node_progress"))) {
             $("#node_progress").css("width", "75%");
         }
-        if (isScrolledIntoView($("#php_progress"))) {
-            $("#php_progress").css("width", "55%");
+        if (isScrolledIntoView($("#flask_progress"))) {
+            $("#flask_progress").css("width", "55%");
         }
         if (isScrolledIntoView($("#bootstrap_progress"))) {
             $("#bootstrap_progress").css("width", "95%");

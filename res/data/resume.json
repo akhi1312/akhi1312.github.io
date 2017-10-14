@@ -32,10 +32,7 @@
       "Bootstrap",
       "AngularJS"
     ],
-    "mobile_development": [
-      "Blank"
-    ],
-    "databases": [
+      "databases": [
       "MySQL",
       "Oracle",
       "H2"
@@ -57,7 +54,8 @@
     "MySQL",
     "AWS",
     "Oracle 10g",   
-    "Linux (Ubuntu, CentOS)"
+    "Linux (Ubuntu, CentOS)",
+    "Intelij"
       
   ],
   "timeline": {
