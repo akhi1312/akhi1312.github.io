@@ -1,21 +1,21 @@
 {
   "personal_info": {
-    "first_name": "Gaurang",
-    "last_name": "Mhatre",
+    "first_name": "Akhilesh",
+    "last_name": "Deowanshi",
     "position": "Softwear Engineering",
     "institute": "San Jose State University",
     "email": [
-      "gaurangmhatre@gmail.com",
-      "gaurang.mhatre@sjsu.edu"
+      "akhilesh.deowanshi@hotmail.com",
+      "akhilesh.deowanshi@sjsu.edu"
     ],
-    "tel": "+1-408-831-8859",
-    "city": "San Jose",
+    "tel": "+1-510-737-8864",
+    "city": "Fremont",
     "state": "CA",
-    "pin": "95112"
+    "pin": "94536"
   },
   "links": {
-    "LinkedIn": "https://in.linkedin.com/in/gaurangmhatre",
-    "Github":"https://github.com/gaurangmhatre"
+    "LinkedIn": "https://in.linkedin.com/in/dakhilesh",
+    "Github":"https://github.com/akhi1312"
   },
   "skills": {
     "programming_languages": [
@@ -27,46 +27,37 @@
       "HTML5",
       "CSS",
       "JavaScript",
-      "PHP",
       "AJAX",
       "XML",
       "Bootstrap",
       "AngularJS"
     ],
     "mobile_development": [
-      "Android"
+      "Blank"
     ],
     "databases": [
       "MySQL",
-      "Oracle"
+      "Oracle",
+      "H2"
     ],
     "tools": [
       "Git",
-      "Android Studio",
-      "NetBeans"
+      "Intelij"
     ],
     "operating_systems": [
       "Windows",
-      "Ubuntu",
-      "Raspbian"
+      "Ubuntu"
     ]
   },
   "things_i_know": [
-    "SqlDbx",
     "Express",
-    "RabbitMQ",
     "MongoDB",
     "Git",
-    "Microsoft Online TFS",
+    "Docker",
     "MySQL",
-    "PhotoShop",
-    "WebStrom",
+    "AWS",
     "Oracle 10g",   
-    "JUnit",
-    "NUnit",
-    "Phonegap",
-    "Linux (Ubuntu, Backtrack)",
-    "Android Develpment"
+    "Linux (Ubuntu, CentOS)"
       
   ],
   "timeline": {
