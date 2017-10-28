@@ -55,46 +55,32 @@
     "AWS",
     "Oracle 10g",   
     "Linux (Ubuntu, CentOS)",
-    "Intelij"
+    "Intelij",
+    "Spring Boot"
       
   ],
   "timeline": {
-      
-      
-    "FEB 2016": [
+    "Jan 2016": [
       {
-        "type": "Project",
-        "title": "Portfolio Rebalancer",
+        "type": "Work",
+        "title": "Deloitte Consulting",
         "desc": [
-          "Developed an AngularJS based visualization dashboard for Rebalancer.",
-          "Developed a REST framework using ASP.net and AngularJS to communicate with the IIS to issue a query and fetch the results.",
-          "Developed a server endpoint to transform the query results into JSONs that AngularJS needed to render visualizations.",
-          "Developed SQL logic for Rebalancing the portfolio's.",
-          "Gave initial deployment support for a couple of months."
+          "Workday Integration Certified Consultant ",
+          "Implemented Workday solution for one of the leading Oil firm of Canada.",
+          "Built Integration using Workday Studio and Soap Services",
+          "Cleansed Data using Unix shell scripts  and SQL.",
+          "Duration: 1 year 10 months (Nov 2013 - Dec 2015)"
         ],
         "link": ""
       }
     ],
-    "SEP 2015": [
+    "May 2015": [
       {
         "type": "Project",
-        "title": "Spruce Investment Advisors",
+        "title": "Genesis Wave 3 PeopleSoft 9.1 Implementaion",
         "desc": [
-          "Spruce was the relativity fresh client engagement for Gravitas.",
-          " The First employee to plan AngularJS and ASP.Net development environment in client's domain.",
-          "Developed Operations Portal for the Client's Investor team.",
-          "Developed a Dashboard for running python based Reports in client's environment."
-        ],
-        "link": ""
-      }
-    ],
-    "JAN 2015": [
-      {
-        "type": "Project",
-        "title": "The Gravitas platform: Reconciliation Engine",
-        "desc": [
-          "This Engine was built for Position and Security reconciliation with flexible SQL based feed­config settings.",
-          "​Lead a team of 3 to setup 50 feeds in less than 2 months.",
+          "Engine is built for coverting legacy data  with flexible SQL based busness rules.",
+          "Responsible for Data Convrsion of Benefit Module.",
           "Contributed to streamline the configuration process."
         ],
         "link": ""
@@ -103,77 +89,35 @@
     "SEP 2014": [
       {
         "type": "Life",
-        "title": "Firtree Partners",
+        "title": "Best Campus Associate",
         "desc": [
-          "Firtree has 82 Billion USD under management.",
-          "Developed various reports and Services mainly in WCF, SSIS and SSRS.",
-          "Implemented a WCF service to import >100,000 daily transactions from 9 different prime brokers."
+          "Built Java based application to create HR reports ",
+          "Built VBA reporting tool to automate HR  reporting and saved over 250  hours of client effort",
+          "Received annual best Campus  Associate based on solid evaluations of Management and appreciation from client."
         ],
         "link": ""
       }
     ],
-    "JUL 2014": [
+    "Nov 2013": [
       {
         "type": "Work",
-        "title": "Gravitas",
+        "title": "Cognizant Technology Solutions",
         "desc": [
-          "Started Working as Software Engineer.",
-          "​Primary role is to be a part of software Co-Sourcing team and understand the client needs and provide logically & programmatically accurate solution in minimum time.",
-          "Duration: 1 year 10 months (July 2014 - April 2016)"
+          "Started Working as Programmer Analyst.",
+          "​PeopleSoft Technical Consultant : Main role was to implement HRMS PeopleSoft 9.1 for global automobile firm.", 
+          "Was involved in development of HR Validations reports and even worked on Data conversion side for loading data for the same.",
+          "Technical Environment : Application Designer 8.54 , Peoplecode , Sql , Application Engine",
+          "Duration: 1 year 10 months (Nov 2013 - Dec 2015)"
         ],
         "link": ""
       }
     ],
-    "AUG 2014": [
+    "AUG 2013": [
       {
         "type": "Life",
-        "title": "Graduated from University of Mumbai",
+        "title": "Graduated from UP Technical University",
         "desc": [
-          "Earned my Bachelor of Engineering degree in Computer Engineering.",
-          "Achieved Distinction"
-        ],
-        "link": ""
-      }
-    ],
-    "MAR 2014": [
-      {
-        "type": "Project",
-        "title": "MusicCloud: SoundCloud based mobile application",
-        "desc": [
-          "Worked in a team of 3 to demonstrate the potential use of audio recorder in mobile device.",
-          "Developed an android application with SoundCloud API and YouTube API.",
-          "Devised methods to cut off clearing unwanted noise and multithreading",
-          "Published paper: http://goo.gl/gyQ36A"
-        ]
-      },
-      {
-        "type": "Project",
-        "title": "Spammer Detection  by Extracting Message Parameters from Spam Emails",
-        "desc": [
-          "Worked in a team of 4 to detect and occlude the malicious actions of the spammers.",
-          "Developed a WPF application on a sample data set of 2GB.",
-          "Implemented two clustering algorithms to study the performance efficiency.",
-          "Published paper: http://goo.gl/2EsrB1"
-        ]
-      }
-    ],
-    "MAR 2013": [
-      {
-        "type": "Project",
-        "title": "Online Secondhand Books Retail store",
-        "desc": [
-          "Developed a web portal for an Institute to sell used Textbooks online.",
-          "Technologies used: PHP, JavaScript, CSS and jQuery"
-        ],
-        "link": ""
-      },
-      {
-        "type": "Project",
-        "title": "Sports event Organizer",
-        "desc": [
-          "Developed an event manger for Cricket Knockout Tournament",
-          "Used SWING based UI with SQL Server.",
-          "Tools: Java, SQL Server"
+          "Earned my Bachelor of Engineering degree in Computer Science"
         ],
         "link": ""
       }
